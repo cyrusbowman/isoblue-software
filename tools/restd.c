@@ -511,7 +511,7 @@ int main(int argc, char *argv[]) {
 		"isoblue.log",
 		DEF_IFACES,
 		sizeof(DEF_IFACES) / sizeof(*DEF_IFACES),
-		"http://www.cyrusbowman.com/data/",
+		"http://cyrus-isoblue-server.herokuapp.com/data/isoblue1",
 		"application/json",
 		0,
 		0,
